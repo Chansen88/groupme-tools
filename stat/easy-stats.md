@@ -45,3 +45,5 @@ Again, pipe through `| wc -l` for a count of changes.
 # Fucks given
 
 `cat transcript.txt | grep fuck | wc -l`
+
+See 'likes-for-users.py' for more more fun with likes.
